@@ -39,7 +39,7 @@ header a {
 }
 
 .portrait{
-    width: 40%;
+    width: 25%;
 }
 
 #search-bar{
@@ -55,4 +55,10 @@ header a {
     color: white;
     padding: 1%;
     font-size: 100%;
+}
+
+.lb-info{
+    padding: 0.5vh;
+
+    font-size: 1.1em;
 }
